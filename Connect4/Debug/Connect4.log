@@ -1,0 +1,14 @@
+﻿  Connect4.cpp
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(118,25): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(120,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(219,18): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(219,58): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(230,17): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(230,55): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(362,21): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(366,21): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(532,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vsrepo\Connect4\Connect4\Connect4.cpp(111): warning C4715: 'GameBoard::maxConnect': not all control paths return a value
+  Connect4.vcxproj -> D:\vsrepo\Connect4\Debug\Connect4.exe
